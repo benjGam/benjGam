@@ -1,5 +1,7 @@
 ### About me
 
+![Katas](https://www.codewars.com/users/Mecopi/badges/large)
+
 Hi, i'm Benjamin Gamache, i'm 20, an hard worker self-taught who just felt in love of code when he was 8 at the start i was just codin for fun, try something. Contemplate what i did.. Aaand i do something else or do it again with another way. I need to underdstand what i'm doing, it's why i'm still coding.
 If i want to something, i'll do something. That will works, don't mind how much time that'll take, but i'll reach my objectif.
 
