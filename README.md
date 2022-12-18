@@ -38,24 +38,24 @@
 <br>
 
 <div>
-    <img src='res/html.png' class="logo">
+    <img src='res/html.png' style="width: 75px; height: 75px;">
 </div>
 
 <div>
-    <img src='res/css.png' class="logo">
-    <img src='res/js.png' class="logo">
-    <img src='res/php.png' class="logo">
+    <img src='res/css.png' style="width: 75px; height: 75px;">
+    <img src='res/js.png' style="width: 75px; height: 75px;">
+    <img src='res/php.png' style="width: 75px; height: 75px;">
 </div>
 
 <div>
-    <img src='res/csharp.png' class="logo">
-    <img src='res/c.png' class="logo">
-    <img src='res/cpp.png' class="logo">
-    <img src='res/java.png' class="logo">
+    <img src='res/csharp.png' style="width: 75px; height: 75px;">
+    <img src='res/c.png' style="width: 75px; height: 75px;">
+    <img src='res/cpp.png' style="width: 75px; height: 75px;">
+    <img src='res/java.png' style="width: 75px; height: 75px;">
 </div>
 
 <div>
-    <img src='res/vbdotnet.png' class="logo">
+    <img src='res/vbdotnet.png' style="width: 75px; height: 75px;">
 </div>
 
 <br>
@@ -69,13 +69,13 @@
 <br>
 
 <div>
-    <img src='res/dotnet.png' class="logo">
+    <img src='res/dotnet.png' style="width: 75px; height: 75px;">
 </div>
 
 <div>
-    <img src='res/qt.png' class="logo">
-    <img src='res/vscode.png' class="logo">
-    <img src='res/vstudio.png' class="logo">
+    <img src='res/qt.png' style="width: 75px; height: 75px;">
+    <img src='res/vscode.png' style="width: 75px; height: 75px;">
+    <img src='res/vstudio.png' style="width: 75px; height: 75px;">
 </div>
 
 <br>
