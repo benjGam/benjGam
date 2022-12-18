@@ -16,8 +16,8 @@ about that, i discovered C# afterwards and i felt in love of this.<br>
 I'm on C# from 6 years now, i guess, i continue to learn some<br>
 other languages, but C# is still my favorite language ATM.<br>
 I'm actually learning JavaScript now, so i understand<br>
-a little much better why everybody say : 'LMAO,<br>
-Javascript's drunk', yeah, he's really<br>
+a little much better why everybody say : 'LMAO, <br>
+Javascript's drunk', yeah, he's really <br>
 drunk but, it's fun because i keep<br>
 learning, some new stuffs<br>
 on programmation.<br>
