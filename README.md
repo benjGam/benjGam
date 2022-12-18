@@ -77,9 +77,10 @@
 
 <br>
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=benjGam&theme=radical&hide_langs_below=8">
 <div>
-    <img src="https://github-readme-stats.vercel.app/api?username=benjGam&show_icons=true&theme=radical&count_private=true">
-    <img src="https://streak-stats.demolab.com/?user=benjGam&theme=tokyonight&locale=fr">
+    <img src="https://github-readme-stats.vercel.app/api?username=benjGam&show_icons=true&theme=radical&count_private=true" style="width:400px">
+    <img src="https://streak-stats.demolab.com/?user=benjGam&theme=tokyonight&locale=fr" style="width:400px">
 </div>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=benjGam&theme=radical&hide_langs_below=8" style="width: 300px; height 100px;">
+
 </div>
