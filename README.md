@@ -1,10 +1,3 @@
-<style>
-.logo {
-    width: 75px;
-    height: 75px;
-}
-</style>
-
 <div align="center">
 
 # About me
