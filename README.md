@@ -24,62 +24,19 @@
 
 <img src="https://www.codewars.com/users/Mecopi/badges/large" style="height:60px; width:400px;">
 
-# Languages
+<div>
+    <img src="res/languages.png" style="border-radius:5px">
+<div>
+    <img src="res/ides_frameworks.png" style="border-radius:5px">
+</div>
+<div>
+    <img src="res/db_os.png" style="border-radius:5px">
+</div>
 
-<div id="languages">
-
-<br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=benjGam&theme=radical&hide_langs_below=8">
 
 <div>
-    <img src='res/html.png' style="width: 75px; height: 75px;">
+    <img src="https://github-readme-stats.vercel.app/api?username=benjGam&show_icons=true&theme=radical&count_private=true" style="width:400px">
+    <img src="https://streak-stats.demolab.com/?user=benjGam&theme=tokyonight&locale=fr" style="width:400px">
 </div>
-
-<div>
-    <img src='res/css.png' style="width: 75px; height: 75px;">
-    <img src='res/js.png' style="width: 75px; height: 75px;">
-    <img src='res/php.png' style="width: 75px; height: 75px;">
-</div>
-
-<div>
-    <img src='res/csharp.png' style="width: 75px; height: 75px;">
-    <img src='res/C.png' style="width: 75px; height: 75px;">
-    <img src='res/cpp.png' style="width: 75px; height: 75px;">
-    <img src='res/java.png' style="width: 75px; height: 75px;">
-</div>
-
-<div>
-    <img src='res/vbdotnet.png' style="width: 75px; height: 75px;">
-</div>
-
-<br>
-
-</div>
-
-# Tools & Frameworks
-
-<div id="tools">
-
-<br>
-
-<div>
-    <img src='res/dotnet.png' style="width: 75px; height: 75px;">
-</div>
-
-<div>
-    <img src='res/qt.png' style="width: 75px; height: 75px;">
-    <img src='res/vscode.png' style="width: 75px; height: 75px;">
-    <img src='res/vstudio.png' style="width: 75px; height: 75px;">
-</div>
-
-<br>
-
-</div>
-
-<br>
-
-<div>
-    <img src="https://github-readme-stats.vercel.app/api?username=benjGam&show_icons=true&theme=radical&count_private=true">
-    <img src="https://streak-stats.demolab.com/?user=benjGam&theme=tokyonight&locale=fr">
-</div>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=benjGam&theme=radical&hide_langs_below=8" style="width: 300px; height 100px;">
 </div>
