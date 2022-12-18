@@ -42,7 +42,7 @@
 
 <div>
     <img src='res/csharp.png' style="width: 75px; height: 75px;">
-    <img src='res/c.png' style="width: 75px; height: 75px;">
+    <img src='res/C.png' style="width: 75px; height: 75px;">
     <img src='res/cpp.png' style="width: 75px; height: 75px;">
     <img src='res/java.png' style="width: 75px; height: 75px;">
 </div>
