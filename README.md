@@ -24,18 +24,20 @@
 
 <img src="https://www.codewars.com/users/Mecopi/badges/large" style="height:60px; width:400px;">
 
-<img src="res/languages.png" style="border-radius:5px;">
-
 <div>
-    <img src="res/db_os.png" style="border-radius:5px;">
-    <img src="res/ides_frameworks.png" style="border-radius:5px;">
+    <img src="res/languages.png">
 </div>
+<div>
+    <img src="res/ides_frameworks.png">
+</div>
+<div>
+    <img src="res/db_os.png">
+</div>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=benjGam&theme=radical&hide_langs_below=8">
 
 <div>
     <img src="https://github-readme-stats.vercel.app/api?username=benjGam&show_icons=true&theme=radical&count_private=true" style="width:400px">
     <img src="https://streak-stats.demolab.com/?user=benjGam&theme=tokyonight&locale=fr" style="width:400px">
 </div>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=benjGam&theme=radical&hide_langs_below=8">
-
 </div>
