@@ -25,13 +25,12 @@
 <img src="https://www.codewars.com/users/Mecopi/badges/large" style="height:60px; width:400px;">
 
 <div>
-    <img src="res/languages.png">
+    <img src="res/languages.png" style="border-radius:5px">
+<div>
+    <img src="res/ides_frameworks.png" style="border-radius:5px">
 </div>
 <div>
-    <img src="res/ides_frameworks.png">
-</div>
-<div>
-    <img src="res/db_os.png">
+    <img src="res/db_os.png" style="border-radius:5px">
 </div>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=benjGam&theme=radical&hide_langs_below=8">
