@@ -8,10 +8,8 @@
 
 ## Stats
 
-<div style="display:flex;justify-content:center;">
-    <img src="https://www.codewars.com/users/Mecopi/badges/large" style="width:300px;">
-    <img src="res/hello.png" style="width:400px;height:100px;"/>
-</div>
+<h4>Reached on a week</h4>
+<img src="https://www.codewars.com/users/Mecopi/badges/large" style="height:60px; width:400px;">
 
 <div style="display:flex;align-items:center;padding:5px;margin:auto;justify-content:center;">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=benjGam&theme=radical&hide_langs_below=8">
