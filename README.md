@@ -2,31 +2,20 @@
 
 # About me
 
-    Hi, my name is Benjamin, i'm 20.
-    I'm  a self-taught developper since  12
-    years now, i felt love about code when i was 8.
-    I started by basics Web languages : HTML, CSS, PHP,
-    then i got learned some strongers languages like C & C++.
-    That was pretty much hard than web languages but was much fun
-    too, so i kept going in this way, but you know, console applications..
-    Therefore i discovered Visual Basic, yes, this language was really lazy but
-    for the kid i was, this was a revolution, i was finally able to create
-    some GUI interface, so, i did it for 2 years on VB, and i was happy
-    about that, i discovered C# afterwards and i felt in love of this.
-    I'm on C# from 6 years now, i guess, i continue to learn some
-    other languages, but C# is still my favorite language ATM.
-    I'm actually learning JavaScript now, so i understand
-    a little much better why everybody say : 'LMAO, 
-    Javascript's drunk', yeah, he's really 
-    drunk but, it's fun because i keep
-    learning, some new stuffs
-    on programmation.
+<p>Young french developer since 12 years <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f923/512.gif" alt="🤣" width="20" height="20"> interested on everything from Computer Science to concrete development of systems.</p>
+<p>I'm not that aware on new technos, but i'm following mainstreams technos <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f604/512.gif" alt="😄" width="20" height="20">. I'm also interested on Network, communications betweens system accross them and that kind of stuff, bytes, arithmetics</p>
+<h3>To resume : If it gonna need a brain, i'm on </h3>
 
+## Stats
+
+<h4>Reached on a week</h4>
 <img src="https://www.codewars.com/users/Mecopi/badges/large" style="height:60px; width:400px;">
+
 <div style="display:flex;align-items:center;padding:5px;margin:auto;justify-content:center;">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=benjGam&theme=radical&hide_langs_below=8">
     <div style="display:block;width:400px;height:100%;padding:5px;">
         <img src="https://github-readme-stats.vercel.app/api?username=benjGam&show_icons=true&theme=radical&count_private=true" style="width:400px;">
         <img src="https://streak-stats.demolab.com/?user=benjGam&theme=tokyonight&locale=fr" style="width:400px;">
     </div>
+</div>
 </div>
