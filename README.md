@@ -8,9 +8,9 @@
 
 ## Stats
 
-<div style="display:flex;">
-    <img src="https://www.codewars.com/users/Mecopi/badges/large" style="height:60px; width:100px;padding-top:35px;">
-    <img src="res/hello.png" style="width:100px"/>
+<div style="display:flex;justify-content:center;">
+    <img src="https://www.codewars.com/users/Mecopi/badges/large" style="width:300px;padding-top:35px;">
+    <img src="res/hello.png" style="width:400px;height:100px;"/>
 </div>
 
 <div style="display:flex;align-items:center;padding:5px;margin:auto;justify-content:center;">
