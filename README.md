@@ -8,7 +8,6 @@
 
 ## Stats
 
-<h4>Reached on a week</h4>
 <img src="https://www.codewars.com/users/Mecopi/badges/large" style="height:60px; width:400px;">
 
 <div style="display:flex;align-items:center;padding:5px;margin:auto;justify-content:center;">
