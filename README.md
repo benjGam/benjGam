@@ -8,7 +8,7 @@
 
 ## Stats
 
-<img src="https://www.codewars.com/users/Mecopi/badges/large" style="height:60px; width:400px;">
+<img src="https://www.codewars.com/users/benjGam/badges/large" style="height:60px; width:400px;">
 
 <div style="display:flex;align-items:center;padding:5px;margin:auto;justify-content:center;">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=benjGam&theme=radical&hide_langs_below=8">
