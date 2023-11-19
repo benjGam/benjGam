@@ -6,7 +6,8 @@
 <p>I'm not that aware on new technos, but i'm following mainstreams technos <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f604/512.gif" alt="😄" width="20" height="20">. I'm also interested on Network, communications betweens system accross them and that kind of stuff, bytes, arithmetics.</p>
 <h3>To resume : If it gonna need a brain, i'm in. </h3>
 
-## Stats
+<detalis>
+<summary><h2>Stats</h2></summary>
 
 <img src="https://www.codewars.com/users/benjGam/badges/large" style="height:60px; width:400px;">
 
@@ -18,5 +19,7 @@
     </div>
 </div>
 </div>
+
+</details>
 
 <p align="center">Thanks to 791</p>
