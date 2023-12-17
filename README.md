@@ -19,4 +19,4 @@
 </div>
 </div>
 
-<p align="center">Thanks to 791</p>
+<p align="center">Thanks to 791.</p>
