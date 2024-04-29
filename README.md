@@ -2,7 +2,7 @@
 
 # About me
 
-<p>Young french developer since 12 years <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f923/512.gif" alt="🤣" width="20" height="20"> interested on everything from Computer Science to concrete development of systems.</p>
+<p>Young french developer since 13 years <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f923/512.gif" alt="🤣" width="20" height="20"> interested on everything from Computer Science to concrete development of systems.</p>
 <p>I'm not that aware on new technos, but i'm following mainstreams technos <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f604/512.gif" alt="😄" width="20" height="20">. I'm also interested on Network, communications betweens system accross them and that kind of stuff, bytes, arithmetics.</p>
 <h3>If it gonna need a brain, i'm in. </h3>
 
@@ -17,6 +17,6 @@
         <img src="https://streak-stats.demolab.com/?user=benjGam&theme=tokyonight&locale=fr" style="width:400px;">
     </div>
 </div>
-</div>
 
-<p align="center">Thanks to 791.</p>
+<p>Thanks to 791.</p>
+</div>
