@@ -1,6 +1,6 @@
 <h1>About me</h1>
 
-<p>Hi 🖐️ I'm a french developer (Since the age of 8 😎). I'm currently working under <img src="./res/archlinux.png" style="height:30px; width:100px"></p>
+<p>Hi 🖐️ I'm a french developer (Since the age of 8 😎). I'm currently working under <img src="./res/archlinux.png" style="height:20px; width:50px"></p>
 
 <h2>Stats</h2>
 
