@@ -1,8 +1,6 @@
-# About me
+<h1>About me</h1>
 
-<p>Young french developer since 13 years <img src="./res/gifs/roffle.gif" alt="🤣" width="20" height="20"> interested on everything from Computer Science to concrete development of systems.</p>
-<p>I'm not that aware on new technos, but i'm following mainstreams technos <img src="./res/gifs/lol.gif" alt="😄" width="20" height="20">. I'm also interested on Network, communications betweens system accross them and that kind of stuff, bytes, arithmetics.</p>
-<h3>If it gonna need a brain, i'm in. </h3>
+<p>Hi 🖐️ I'm a french developer (Since the age of 8 😎). I'm currently working under <img src="./res/archlinux.png" style="height:30px; width:100px"></p>
 
 <h2>Stats</h2>
 
