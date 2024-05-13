@@ -1,6 +1,12 @@
 <h1>About me</h1>
 
-<p>Hi 🖐️ I'm a french developer (Since the age of 8 😎). I'm currently working under <img src="./res/archlinux.png" style="height:20px; width:50px"> (It's <del>pretty cool</del>, it's also extra-light). </p>
+<p>Hi 🖐️ I'm a french developer (Since the age of 8 😎). I'm currently working under <img src="./res/archlinux.png" style="height:20px; width:50px"> (It's <del>pretty cool</del>, it's also extra-light). Soooo my interests are : </p>
+
+<div style>
+    <ul>
+        <li><strong>Bytes</strong> & <strong>Arithmetics</strong> stuffs.</li>
+        <li><strong>Networks</strong> & <strong>Systems Understanding</strong>.</li>
+    </ul>
 
 <h2>Stats</h2>
 
