@@ -39,6 +39,12 @@
       <td>Low</td>
     </tr>
     <tr>
+      <td><img src="https://img.shields.io/badge/CSS3-E34F26?style=for-the-badge&logo=CSS3&logoColor=white&color=151515"></td>
+      <td>~ 1 year</td>
+      <td>8 yo</td>
+      <td>Low</td>
+    </tr>
+    <tr>
       <td><img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white&color=151515"></td>
       <td>~ 4 months</td>
       <td>10 yo</td>
