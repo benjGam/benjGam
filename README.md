@@ -75,7 +75,7 @@
       <td>Making some bots & scrappers with 😃</td>
     </tr>
     <tr>
-      <td><img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=white&color=151515"></td>
+      <td><img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E&color=151515"></td>
       <td>~ 3 months</td>
       <td>19 yo</td>
       <td>😂 You know the meme 😂</td>
