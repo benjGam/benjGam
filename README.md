@@ -80,6 +80,12 @@
       <td>19 yo</td>
       <td>😂 You know the meme 😂</td>
     </tr>
+    <tr>
+      <td><img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=007acc&color=151515"></td>
+      <td>~ 2 years</td>
+      <td>19 yo</td>
+      <td>Lovin' it, developing in for fun & personal or professionnal projects 😃</td>
+    </tr>
   </table>
 </div>
 
