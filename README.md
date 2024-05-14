@@ -30,43 +30,43 @@
       <td>Language</td>
       <td>Practice Time</td>
       <td>Age when learned</td>
-      <td>Esteem</td>
+      <td>Mastery</td>
     </tr>
     <tr>
       <td><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&color=151515"></td>
       <td>~ 1 year</td>
       <td>8 yo</td>
-      <td>Low</td>
+      <td>Get me out of here 😫</td>
     </tr>
     <tr>
       <td><img src="https://img.shields.io/badge/CSS3-E34F26?style=for-the-badge&logo=CSS3&logoColor=white&color=151515"></td>
       <td>~ 1 year</td>
       <td>8 yo</td>
-      <td>Low</td>
+      <td>Get me out of here 😫</td>
     </tr>
     <tr>
       <td><img src="https://img.shields.io/badge/PHP-E34F26?style=for-the-badge&logo=PHP&logoColor=white&color=151515"></td>
       <td>~ 1 year</td>
       <td>9 yo</td>
-      <td>Mitigate</td>
+      <td>Ok to work with but still 😫</td>
     </tr>
     <tr>
       <td><img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white&color=151515"></td>
       <td>~ 4 months</td>
       <td>10 yo</td>
-      <td>High</td>
+      <td>It's been a while since i played with it 😅💨</td>
     </tr>
     <tr>
       <td><img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white&color=151515"></td>
       <td>~ 6 months</td>
       <td>10 yo</td>
-      <td>High</td>
+      <td>It's been a while since i played with it 😅💨</td>
     </tr>
     <tr>
       <td><img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white&color=151515"></td>
       <td>~ 6 years</td>
       <td>13 yo</td>
-      <td>High</td>
+      <td>Lovin' it, developing in for fun & personal projects 😃</td>
     </tr>
   </table>
 </div>
