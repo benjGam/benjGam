@@ -22,4 +22,35 @@
   </div>
 </div>
 
+
+<div>
+  <h2>Languages</h2>
+  <table>
+    <tr>
+      <td>Language</td>
+      <td>Practice Time</td>
+      <td>Age when learned</td>
+      <td>Esteem</td>
+    </tr>
+    <tr>
+      <td><img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"></td>
+      <td>~ 4 months</td>
+      <td>10 yo</td>
+      <td>High</td>
+    </tr>
+    <tr>
+      <td><img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"></td>
+      <td>~ 6 months</td>
+      <td>10 yo</td>
+      <td>High</td>
+    </tr>
+    <tr>
+      <td><img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white"></td>
+      <td>~ 6 years</td>
+      <td>13 yo</td>
+      <td>High</td>
+    </tr>
+  </table>
+</div>
+
 <p>Thanks to 791.</p>
