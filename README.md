@@ -69,6 +69,12 @@
       <td>Lovin' it, developing in for fun & personal projects 😃</td>
     </tr>
     <tr>
+      <td><img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue&color=151515"></td>
+      <td>~ 5 months</td>
+      <td>19 yo</td>
+      <td>Making some bots & scrappers with 😃</td>
+    </tr>
+    <tr>
       <td><img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=white&color=151515"></td>
       <td>~ 3 months</td>
       <td>19 yo</td>
