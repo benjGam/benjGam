@@ -13,7 +13,7 @@
   <h2 align="right">💪 Stats</h2>
   <img src="https://www.codewars.com/users/benjGam/badges/large" style="height:60px; width:400px;">
   <div>
-    <img src="https://github-readme-stats.vercel.app/api?username=benjGam&show_icons=true&&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515&count_private=true">
+    <img src="https://github-readme-stats.vercel.app/api?username=benjGam&show_icons=true&&title_color=ffffff&icon_color=ffffff&text_color=daf7dc&bg_color=151515&count_private=true">
       </div>
         <div>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=benjGam&theme=radical&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515">
