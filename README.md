@@ -22,7 +22,6 @@
   </div>
 </div>
 
-
 <div>
   <h2>Languages</h2>
   <table>
@@ -33,55 +32,55 @@
       <td>Mastery</td>
     </tr>
     <tr>
-      <td><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&color=151515"></td>
+      <td><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&color=151515" alt="HTML5"></td>
       <td>~ 1 year</td>
       <td>8 yo</td>
       <td>Get me out of here 😫</td>
     </tr>
     <tr>
-      <td><img src="https://img.shields.io/badge/CSS3-E34F26?style=for-the-badge&logo=CSS3&logoColor=white&color=151515"></td>
+      <td><img src="https://img.shields.io/badge/CSS3-E34F26?style=for-the-badge&logo=CSS3&logoColor=white&color=151515" alt="CSS3"></td>
       <td>~ 1 year</td>
       <td>8 yo</td>
       <td>Get me out of here 😫</td>
     </tr>
     <tr>
-      <td><img src="https://img.shields.io/badge/PHP-E34F26?style=for-the-badge&logo=PHP&logoColor=white&color=151515"></td>
+      <td><img src="https://img.shields.io/badge/PHP-E34F26?style=for-the-badge&logo=PHP&logoColor=white&color=151515" alt="PHP"></td>
       <td>~ 1 year</td>
       <td>9 yo</td>
       <td>Ok to work with but still 😫</td>
     </tr>
     <tr>
-      <td><img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white&color=151515"></td>
+      <td><img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white&color=151515" alt="C"></td>
       <td>~ 4 months</td>
       <td>10 yo</td>
       <td>It's been a while since i played with it 😅💨</td>
     </tr>
     <tr>
-      <td><img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white&color=151515"></td>
+      <td><img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white&color=151515" alt="C++"></td>
       <td>~ 6 months</td>
       <td>10 yo</td>
       <td>It's been a while since i played with it 😅💨</td>
     </tr>
     <tr>
-      <td><img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white&color=151515"></td>
+      <td><img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white&color=151515" alt="C#"></td>
       <td>~ 6 years</td>
       <td>13 yo</td>
       <td>Lovin' it, developing in for fun & personal projects 😃</td>
     </tr>
     <tr>
-      <td><img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue&color=151515"></td>
+      <td><img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue&color=151515" alt="Python"></td>
       <td>~ 5 months</td>
       <td>19 yo</td>
       <td>Making some bots & scrappers with 😃</td>
     </tr>
     <tr>
-      <td><img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E&color=151515"></td>
+      <td><img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E&color=151515" alt="JavaScript"></td>
       <td>~ 3 months</td>
       <td>19 yo</td>
       <td>😂 You know the meme 😂</td>
     </tr>
     <tr>
-      <td><img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=007acc&color=151515"></td>
+      <td><img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=007acc&color=151515" alt="TypeScript"></td>
       <td>~ 2 years</td>
       <td>19 yo</td>
       <td>Lovin' it, developing in for fun & personal or professionnal projects 😃</td>
