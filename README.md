@@ -28,7 +28,6 @@
     <tr>
       <td>Language</td>
       <td>Practice Time</td>
-      <td>Age when learned</td>
       <td>Mastery</td>
     </tr>
     <tr>
